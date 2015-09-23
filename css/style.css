@@ -2,10 +2,18 @@ body {
 	background-color: #AC7A55;
 	font-family: helvetica;
 	font-weight: bold;
+	margin: 0 auto 0 auto;
+	
 }
 .container {
-	font-size: 20px;
-	background-color: #D70001;
+	font-size: 30px;
+	background-color: #FEF7E4;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right:50px;
+	padding-bottom: 40px;
+	margin: 0 auto 0 auto;
+
 }
 p {
 	font-size: 15px;
@@ -15,4 +23,12 @@ p {
 }
 h1 {
 	font-weight: bold;
+	font-size: 30px;
+}
+div {
+	background-color: #88C97F;
+}
+.special {
+	background-color: #92D2F0;
+	padding-left: 15px;
 }
