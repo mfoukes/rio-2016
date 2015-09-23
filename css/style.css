@@ -1,2 +1,18 @@
+body {
+	background-color: #AC7A55;
+	font-family: helvetica;
+	font-weight: bold;
+}
+.container {
+	font-size: 20px;
+	background-color: #D70001;
+}
+p {
+	font-size: 15px;
+	font-weight: normal;
+	background-color: #FFF668;
 
-
+}
+h1 {
+	font-weight: bold;
+}
