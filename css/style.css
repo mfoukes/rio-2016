@@ -16,19 +16,31 @@ body {
 
 }
 p {
-	font-size: 15px;
-	font-weight: normal;
+	font-size: 12px;
+	font-weight: bolder;
 	background-color: #FFF668;
+	color: #30201A;
+
 
 }
 h1 {
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 70px;
+	text-transform: lowercase;
+	color: #30201A;
 }
 div {
 	background-color: #88C97F;
+	margin-left: 20px;
 }
 .special {
 	background-color: #92D2F0;
-	padding-left: 15px;
+	padding: 0 auto 0 auto;
+	font-size: 60px;
+	color: white;
+	
 }
+span {
+	color: white;
+}
+
