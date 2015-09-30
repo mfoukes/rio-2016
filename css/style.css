@@ -1,18 +1,19 @@
 body {
-	background-color: white;
+	background-color: blue;
 	font-family: helvetica;
 	font-weight: bold;
-	margin: 0 auto 0 auto;
+	margin: 50px 50px;
 	
 }
 .container {
 	font-size: 30px;
-	background-color: blue;
+	background-color: #01DF01;
 	padding-top: 30px;
 	padding-left: 30px;
 	padding-right:50px;
 	padding-bottom: 40px;
 	margin: 0 auto 0 auto;
+	text-align: center;
 
 }
 p {
@@ -20,6 +21,8 @@ p {
 	font-weight: bolder;
 	background-color: #01DF01;
 	color: red;
+	margin: 50px 50px;
+	text-align: center;
 }
 
 div {
@@ -31,10 +34,12 @@ div {
 	padding: 0 auto 0 auto;
 	font-size: 50px;
 	color: black;
+	margin: 50px 50px;
 	
 }
 h1 {
 	color: red;
 	font-size: 80px;
+	margin: 50px 50px;
 }
 
