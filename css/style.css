@@ -1,5 +1,5 @@
 body {
-	background-color: #AC7A55;
+	background-color: white;
 	font-family: helvetica;
 	font-weight: bold;
 	margin: 0 auto 0 auto;
@@ -7,7 +7,7 @@ body {
 }
 .container {
 	font-size: 30px;
-	background-color: #FEF7E4;
+	background-color: blue;
 	padding-top: 30px;
 	padding-left: 30px;
 	padding-right:50px;
@@ -16,31 +16,25 @@ body {
 
 }
 p {
-	font-size: 12px;
+	font-size: 50px;
 	font-weight: bolder;
-	background-color: #FFF668;
-	color: #30201A;
-
-
+	background-color: #01DF01;
+	color: red;
 }
-h1 {
-	font-weight: bold;
-	font-size: 70px;
-	text-transform: lowercase;
-	color: #30201A;
-}
+
 div {
-	background-color: #88C97F;
+	background-color: #01DF01;
 	margin-left: 20px;
 }
 .special {
-	background-color: #92D2F0;
+	background-color: #FFFF00;
 	padding: 0 auto 0 auto;
-	font-size: 60px;
-	color: white;
+	font-size: 50px;
+	color: black;
 	
 }
-span {
-	color: white;
+h1 {
+	color: red;
+	font-size: 80px;
 }
 
