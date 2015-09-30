@@ -1,46 +1,45 @@
 body {
-	background-color: #AC7A55;
+	background-color: blue;
 	font-family: helvetica;
 	font-weight: bold;
-	margin: 0 auto 0 auto;
+	margin: 50px 50px;
 	
 }
 .container {
 	font-size: 30px;
-	background-color: #FEF7E4;
+	background-color: #01DF01;
 	padding-top: 30px;
 	padding-left: 30px;
 	padding-right:50px;
 	padding-bottom: 40px;
 	margin: 0 auto 0 auto;
+	text-align: center;
 
 }
 p {
-	font-size: 12px;
+	font-size: 50px;
 	font-weight: bolder;
-	background-color: #FFF668;
-	color: #30201A;
-
-
+	background-color: #01DF01;
+	color: red;
+	margin: 50px 50px;
+	text-align: center;
 }
-h1 {
-	font-weight: bold;
-	font-size: 70px;
-	text-transform: lowercase;
-	color: #30201A;
-}
+
 div {
-	background-color: #88C97F;
+	background-color: #01DF01;
 	margin-left: 20px;
 }
 .special {
-	background-color: #92D2F0;
+	background-color: #FFFF00;
 	padding: 0 auto 0 auto;
-	font-size: 60px;
-	color: white;
+	font-size: 50px;
+	color: black;
+	margin: 50px 50px;
 	
 }
-span {
-	color: white;
+h1 {
+	color: red;
+	font-size: 80px;
+	margin: 50px 50px;
 }
 
